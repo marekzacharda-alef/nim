@@ -21,3 +21,6 @@ To generate some load, use the command line on the nginx-manager server, there i
 ```
 ./load-test.sh 1
 ```
+
+#### useful links 
+https://deploy-preview-166--compass-public-docs.netlify.app/nginx-instance-manager/getting-started/encrypt/

@@ -1,6 +1,6 @@
 # NIM lab additional instructions
 
-Some edits in https://clouddocs.f5.com/training/community/nginx/html/class4/class4.html 
+Some edits/ hints for  https://clouddocs.f5.com/training/community/nginx/html/class4/class4.html 
 
 > Step 3: Install nginx-manager
 for speed run the following

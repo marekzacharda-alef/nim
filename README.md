@@ -1,3 +1,5 @@
+Short web based „demo“ for NGINX  https://simulator.f5.com/nginx
+
 # NIM lab additional instructions
 
 Some edits/ hints for  https://clouddocs.f5.com/training/community/nginx/html/class4/class4.html 

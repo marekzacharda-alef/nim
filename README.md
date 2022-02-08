@@ -18,6 +18,13 @@ and
 ```
 sudo systemctl restart nginx-agent
 ```
+and then copy .lic file in /etc/nginx-manager/
+```
+cat NGINXInstanceManagerLicense-FreeTrial.txt
+to 
+nginx-manager.lic
+```
+
 ##### Module 2
 To generate some load, use the command line on the nginx-manager server, there is a load-test.sh file.  Simply run it with a parameter of how many times to run.  It'll through traffic at the websites for each nginx instance.
 ```
